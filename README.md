@@ -19,9 +19,9 @@
 
 ## Notable alumini
 ### Politicians
-1 Jason R. Brown – Republican leader in the Missouri House of Representatives
-1 Pat Danner – former U.S. representative from Missouri
-1 Steve King – U.S. representative from Iowa's 4th congressional district.
+1. Jason R. Brown – Republican leader in the Missouri House of Representatives
+2. Pat Danner – former U.S. representative from Missouri
+3. Steve King – U.S. representative from Iowa's 4th congressional district.
 ### Atheletes
 * Brian Dixon – former NFL cornerback for the New Orleans Saints, signed as an undrafted free agent in 2014.
 * Adam Dorrel – 3x National Champion winning coach, 4x MIAA champion coach, and 3x AFCA NCAA DII Coach of the Year
